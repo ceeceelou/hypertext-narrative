@@ -17,3 +17,8 @@ h2 {
 #moon {
 
    }
+
+.dark-mode {
+   background-color: black;
+   color:white;
+}
